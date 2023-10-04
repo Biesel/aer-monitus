@@ -25,3 +25,8 @@ El proyecto de "Sistema de Monitoreo de Calidad del Aire y Temperatura con ESP32
 2. **Conciencia Ambiental:** Fomenta la conciencia sobre la calidad del aire interior y su impacto en la salud y el bienestar de las personas.
 
 El proyecto del "Sistema de Monitoreo de Calidad del Aire y Temperatura con ESP32 AER MONITUS" representa una solución práctica para mejorar la calidad de vida en entornos internos, proporcionando a los usuarios información en tiempo real para tomar decisiones informadas sobre su salud y seguridad.
+
+## Diagrama de caja negra
+
+![Untitled-2023-10-04-0834](https://github.com/BreanMS/aer-monitus/assets/73721708/1462ced9-36cf-4707-b0eb-ba373283e558)
+
